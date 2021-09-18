@@ -19,9 +19,9 @@ Tip: Open this guide in a separate browser window (or tab) so you can see it whi
 
 
 Step 1. Create a Repository
-A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a README, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. It also offers other common options such as a license file.
+A __repository__ is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a _README_, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. _It also offers other common options such as a license file._
 
-Your hello-world repository can be a place where you store ideas, resources, or even share and discuss things with others.
+Your ```hello-world``` repository can be a place where you store ideas, resources, or even share and discuss things with others.
 
 To create a new repository
 In the upper right corner, next to your avatar or identicon, click  and then select New repository.
@@ -64,27 +64,3 @@ Select the blue Create branch box or hit “Enter” on your keyboard.
 branch gif
 
 Now you have two branches, main and readme-edits. They look exactly the same, but not for long! Next we’ll add our changes to the new branch.
-
-
-Step 3. Make and commit changes
-Bravo! Now, you’re on the code view for your readme-edits branch, which is a copy of main. Let’s make some edits.
-
-On GitHub, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
-
-Make and commit changes
-Click the README.md file.
-Click the  pencil icon in the upper right corner of the file view to edit.
-In the editor, write a bit about yourself.
-Write a commit message that describes your changes.
-Click Commit changes button.
-commit
-
-These changes will be made to just the README file on your readme-edits branch, so now this branch contains content that’s different from main.
-
-
-Step 4. Open a Pull Request
-Nice edits! Now that you have changes in a branch off of main, you can open a pull request.
-
-Pull Requests are the heart of collaboration on GitHub. When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
-
-As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.
