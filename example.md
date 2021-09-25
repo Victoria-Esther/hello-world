@@ -1,4 +1,6 @@
-The __Hello World__ project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!
+The __Hello World__ project is a time-honored tradition in computer programming.
+It is a simple exercise that gets you started when learning something new. 
+Let’s get started with GitHub!
 
 ### You’ll learn how to:
 
@@ -8,17 +10,23 @@ The __Hello World__ project is a time-honored tradition in computer programming.
 * Open and merge a pull request
 
 # What is GitHub?
-GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+GitHub is a code hosting platform for version control and collaboration. 
+It lets you and others work together on projects from anywhere.
 
-This tutorial teaches you GitHub essentials like repositories, branches, commits, and Pull Requests. You’ll create your own Hello World repository and learn GitHub’s _Pull Request_ workflow, a popular way to create and review code.
+This tutorial teaches you GitHub essentials like repositories, branches, commits,
+and Pull Requests. You’ll create your own Hello World repository and learn 
+GitHub’s _Pull Request_ workflow, a popular way to create and review code.
 
 ### No coding necessary
-To complete this tutorial, you need a GitHub.com account and Internet access. You don’t need to know how to code, use the command line, or install Git (the version control software GitHub is built on).
+To complete this tutorial, you need a GitHub.com account and Internet access.
+You don’t need to know how to code, use the command line, or install Git 
+(the version control software GitHub is built on).
 
-Tip: Open this guide in a separate browser window (or tab) so you can see it while you complete the steps in the tutorial.
+Tip: Open this guide in a separate browser window (or tab) so you can see it
+while you complete the steps in the tutorial.
 
 
-Step 1. Create a Repository
+# Step 1. Create a Repository
 A __repository__ is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a _README_, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. _It also offers other common options such as a license file._
 
 Your ```hello-world``` repository can be a place where you store ideas, resources, or even share and discuss things with others.
@@ -28,17 +36,20 @@ In the upper right corner, next to your avatar or identicon, click  and then sel
 Name your repository ```hello-world```.
 Write a short description.
 Select __Initialize this repository with a README.__
-new-repo-form
 
 Click __Create repository.__
 
+# Step 2. Create a Branch
+__Branching__ is the way to work on different versions of a repository at one time.
 
-Step 2. Create a Branch
-Branching is the way to work on different versions of a repository at one time.
+By default your repository has one branch named ```main``` which is considered to
+be the definitive branch. We use branches to experiment and make edits before
+committing them to ```main```.
 
-By default your repository has one branch named main which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to main.
-
-When you create a branch off the main branch, you’re making a copy, or snapshot, of main as it was at that point in time. If someone else made changes to the main branch while you were working on your branch, you could pull in those updates.
+When you create a branch off the ```main branch```, you’re making a copy, or snapshot, 
+of ```main``` as it was at that point in time. 
+If someone else made changes to the ```main``` branch while you were working on your branch, 
+you could pull in those updates.
 
 This diagram shows:
 
