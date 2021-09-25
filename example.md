@@ -46,32 +46,33 @@ By default your repository has one branch named ```main``` which is considered t
 be the definitive branch. We use branches to experiment and make edits before
 committing them to ```main```.
 
-When you create a branch off the ```main branch```, you’re making a copy, or snapshot, 
+When you create a branch off the ```main``` branch, you’re making a copy, or snapshot, 
 of ```main``` as it was at that point in time. 
 If someone else made changes to the ```main``` branch while you were working on your branch, 
 you could pull in those updates.
 
 This diagram shows:
 
-The main branch
-A new branch called feature (because we’re doing ‘feature work’ on this branch)
-The journey that feature takes before it’s merged into main
-a branch
+* The ```main``` branch
+* A new branch called ```feature``` (because we’re doing ‘feature work’ on this branch)
+* The journey that ```feature``` takes before it’s merged into ```main```
+
 
 Have you ever saved different versions of a file? Something like:
 
-story.txt
-story-joe-edit.txt
-story-joe-edit-reviewed.txt
+* ```story txt```
+* ```story-joe-edit.txt```
+* ```story-joe-edit-reviewed.txt```
+
 Branches accomplish similar goals in GitHub repositories.
 
-Here at GitHub, our developers, writers, and designers use branches for keeping bug fixes and feature work separate from our main (production) branch. When a change is ready, they merge their branch into main.
+Here at GitHub, our developers, writers, and designers use branches for keeping
+bug fixes and feature work separate from our main (production) branch.
+When a change is ready, they merge their branch into ```main```.
 
-To create a new branch
-Go to your new repository hello-world.
-Click the drop down at the top of the file list that says branch: main.
-Type a branch name, readme-edits, into the new branch text box.
-Select the blue Create branch box or hit “Enter” on your keyboard.
+### To create a new branch
+Go to your new repository ```hello-world```.
+Click the drop down at the top of the file list that says __branch: main.__
+Type a branch name, ```readme-edits```, into the new branch text box.
+Select the blue __Create branch__ box or hit “Enter” on your keyboard.
 branch gif
-
-Now you have two branches, main and readme-edits. They look exactly the same, but not for long! Next we’ll add our changes to the new branch.
