@@ -23,14 +23,14 @@ A __repository__ is usually used to organize a single project. Repositories can 
 
 Your ```hello-world``` repository can be a place where you store ideas, resources, or even share and discuss things with others.
 
-To create a new repository
-In the upper right corner, next to your avatar or identicon, click  and then select New repository.
-Name your repository hello-world.
+## To create a new repository
+In the upper right corner, next to your avatar or identicon, click  and then select _New repository._
+Name your repository ```hello-world```.
 Write a short description.
-Select Initialize this repository with a README.
+Select __Initialize this repository with a README.__
 new-repo-form
 
-Click Create repository.
+Click __Create repository.__
 
 
 Step 2. Create a Branch
